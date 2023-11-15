@@ -5,12 +5,12 @@ I developed this game to learn the basic of the pygame library.
 
 ## Dependencies
 
-- Python 3.x
-- Pygame library
+- Python 3.10 or higher
+- pygame==2.5.2
 
 ## How to Play
 
-1. Ensure you have at least Python 3.10 installed on your system.
+1. Ensure you have the dependencies installed on your system.
 2. Install the Pygame library by running: `pip install pygame`
 3. Download the game files, including images (pessi.ico, grass_50.jpg, pessi.png, and ball.png).
 4. Run the game script using: `python game.py`
